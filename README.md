@@ -1,1 +1,1 @@
-# valorant_triggerbot
+# just a triggerbot %70 paste
